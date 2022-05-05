@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aya745
-- 👀 I’m interested in object oriented programming
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in database and backend programming
+- 🌱 I’m currently learning MongooDB
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
